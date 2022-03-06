@@ -1,7 +1,7 @@
 # Catalog-App
 ## Spring Boot, Spring Data JPA, @OneToMany, Thymeleaf, Bootstrap4, MySQL
 
-# CRUD operations performed on three entities: Product, Category, Brand
+### CRUD operations performed on three entities: Product, Category, Brand
 
 ![Product Entity](images/products.png)
 
